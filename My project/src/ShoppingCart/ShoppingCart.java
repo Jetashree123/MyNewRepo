@@ -56,7 +56,7 @@ package ShoppingCart;
 	  System.out.println(item2.getName() + " " + item2.getQuantity() + " @ $" + item2.getPrice()  + " = $" + (item2.getPrice() * item2.getQuantity()));
 	  System.out.println("");
 
-	  System.out.println("Total: $" + cartTotal);
+	  System.out.println("SubTotal: $" + cartTotal);
 
 	  return;
 	   }
